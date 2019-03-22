@@ -1,5 +1,4 @@
-# Mykra 
-## 給我們驚喜 - Surprise Us  
+# Mykra - 給我們驚喜
 ## Open Source Microfinance for Taipei and the Universe
 
 [Mykra FAQ](https://medium.com/@shiningsea3000/mykra-faq-12cd60d5c3cf)

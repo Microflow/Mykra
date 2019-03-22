@@ -3,9 +3,8 @@
 
 [Mykra FAQ](https://medium.com/@shiningsea3000/mykra-faq-12cd60d5c3cf)
 
-[Our basic Doc](https://docs.google.com/document/d/11MGNHL9yPNA6Pr_UQjXdwozWxWboLVg4D5R-nQznQkU/edit)
+[Main Articles. Check these out to see what we're doing.](https://medium.com/@shiningsea3000/5-articles-on-new-businesses-for-the-future-cdad8491a1ba)
 
-
-[Main Articles](https://medium.com/@shiningsea3000/5-articles-on-new-businesses-for-the-future-cdad8491a1ba)
+[Our basic Rough Doc.](https://docs.google.com/document/d/11MGNHL9yPNA6Pr_UQjXdwozWxWboLVg4D5R-nQznQkU/edit)
 
 

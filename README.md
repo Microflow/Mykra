@@ -1,4 +1,4 @@
-# Mykra
+# Mykra - Surprise Us
 ## Open Source Microfinance for Taipei and the Universe
 
 [Mykra FAQ](https://medium.com/@shiningsea3000/mykra-faq-12cd60d5c3cf)
@@ -8,5 +8,21 @@
 [Our basic Rough Doc.](https://docs.google.com/document/d/11MGNHL9yPNA6Pr_UQjXdwozWxWboLVg4D5R-nQznQkU/edit)
 
 ## Mykra Responsive App
+
+Very early drafts here. We're building components piece by piece. Later, we will put them all together.
+
+[Youtube video component](https://codepen.io/Teeke/pen/vPQdJL)
+
+## Roadmap
+- Get responsive app ready. 
+- Get code on Github so other programmers can share. 
+- Share repo on open source Facebook groups, forums and subreddits. 
+- Write educational articles. 
+
+
+## Open Source Forums
+
+https://codepen.io/Teeke/pen/vPQdJL
+
 
 

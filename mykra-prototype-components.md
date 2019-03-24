@@ -54,6 +54,16 @@ https://github.com/rudi-c/alchemy-book
 
 https://codepen.io/loenko/full/RpVdoM
 
+## Discord
+
+https://betterdiscord.net/home/
+
+## Daily Topic
+
+Embed Discord
+
+https://codepen.io/Muphet/pen/vyomEy
+
 
 
 

@@ -21,6 +21,7 @@ Very early drafts here. We're building components piece by piece. Later, we will
 - Funder Whispers
 - Ticker
 - 2 Carousels?
+- Chat Room
 
 ## Roadmap
 - Get responsive app ready. 

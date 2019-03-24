@@ -22,6 +22,7 @@ Very early drafts here. We're building components piece by piece. Later, we will
 - Ticker
 - 2 Carousels?
 - Chat Room
+- How Could We Solve? Crowdwrite Feature
 
 ## Roadmap
 - Get responsive app ready. 

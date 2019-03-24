@@ -76,6 +76,10 @@ https://www.nfld99.com/themegen.html
 
 https://www.nfld99.com/main.html
 
+# Full Screen
+
+http://usefulangle.com/post/12/javascript-going-fullscreen-is-rare
+
 
 
 

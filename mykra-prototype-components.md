@@ -20,11 +20,15 @@ https://codepen.io/aarongillett/pen/JYpJyX
 https://codepen.io/strongpom/pen/qmooZe
 
 
-## Might Use Later
+## Investigating
 
 ### News Ticker
 
 https://codepen.io/lewismcarey/pen/GJZVoG
+
+## Chatrooms
+
+https://iflychat.com/embedded-chatroom-example-public-chatroom
 
 
 

@@ -42,13 +42,19 @@ https://codepen.io/Gwynfor/pen/yYEWPO
 
 https://codepen.io/Teeke/pen/QoYJLO
 
-## Chatroom
+## Chatroom (Elixir Docs)
 
 https://elixircasts.io/chat-room-in-8-minutes
 
 ## Alchemy Collaborative Writing
 
 https://github.com/rudi-c/alchemy-book
+
+## Embed Google Docs
+
+https://codepen.io/loenko/full/RpVdoM
+
+
 
 
 

@@ -68,6 +68,10 @@ https://codepen.io/Muphet/pen/vyomEy
 
 https://www.youtube.com/watch?v=Msf7OBHAevc
 
+## Discord Theme Generator
+
+https://www.nfld99.com/themegen.html
+
 
 
 

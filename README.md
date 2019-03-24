@@ -15,6 +15,13 @@ Very early drafts here. We're building components piece by piece. Later, we will
 
 [Youtube video component](https://codepen.io/Teeke/pen/vPQdJL)
 
+## Feature TODO List
+
+- Live Youtube Embed
+- Funder Whispers
+- Ticker
+- 2 Carousels?
+
 ## Roadmap
 - Get responsive app ready. 
 - Get code on Github so other programmers can share. 

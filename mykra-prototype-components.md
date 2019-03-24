@@ -30,6 +30,12 @@ https://codepen.io/lewismcarey/pen/GJZVoG
 
 https://iflychat.com/embedded-chatroom-example-public-chatroom
 
+## Colorful Text
+
+https://codepen.io/Gwynfor/pen/yYEWPO
+
+
+
 
 
 

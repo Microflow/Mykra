@@ -76,9 +76,15 @@ https://www.nfld99.com/themegen.html
 
 https://www.nfld99.com/main.html
 
-# Full Screen
+## Full Screen
 
 http://usefulangle.com/post/12/javascript-going-fullscreen-is-rare
+
+#Discord
+
+Sofa Pics
+
+https://www.pexels.com/search/sofa/
 
 
 

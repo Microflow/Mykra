@@ -64,6 +64,12 @@ Embed Discord
 
 https://codepen.io/Muphet/pen/vyomEy
 
+## Customize Discord
+
+https://www.youtube.com/watch?v=Msf7OBHAevc
+
+
+
 
 
 

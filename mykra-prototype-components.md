@@ -38,6 +38,12 @@ https://codepen.io/rabbitfighter81/pen/XXxVEm
 
 https://codepen.io/Gwynfor/pen/yYEWPO
 
+## Marquee Scrolling Text
+
+https://codepen.io/Teeke/pen/QoYJLO
+
+
+
 
 
 

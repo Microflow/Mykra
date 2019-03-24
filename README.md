@@ -9,6 +9,8 @@
 
 ## Mykra Responsive App
 
+[Responsive Web App issues here](https://github.com/Microflow/Mykra/issues?q=is%3Aopen+is%3Aissue+label%3A%22Responsive+Web+App.%22)
+
 Very early drafts here. We're building components piece by piece. Later, we will put them all together.
 
 [Youtube video component](https://codepen.io/Teeke/pen/vPQdJL)

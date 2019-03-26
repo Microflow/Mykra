@@ -7,3 +7,7 @@ Met a man selling ginger tea from a tea stand today. He made 3 mistakes:
 - He was unclear about the product. He was giving samples of tea away, but was only selling ginger sweets, not tea.
 
 If he fixed these problems, I wouldve bougtht a tea. **Presentation, clear pricing, clear product.** 
+
+#### When you're writing, it's easier to group things in lists of 5. 
+
+####: Article: How to survive long prototyping sesssions.

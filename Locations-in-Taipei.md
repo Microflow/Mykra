@@ -54,7 +54,13 @@ webpage URLTWD 300 /d102 Coworking Space, Taipei
      
 4.02km away
 
+# Reddit Outdoor Bars and Pubs
 
+https://www.reddit.com/r/taiwan/comments/2sskxt/outdoor_barspubs_in_taipei/
+
+## These ones sound a bit posh.
+
+https://theculturetrip.com/asia/taiwan/articles/5-great-rooftop-bars-and-restaurants-for-that-perfect-taipei-sunset/
 
 ## List of Cowroking Spaces
 

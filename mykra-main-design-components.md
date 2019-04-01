@@ -1,6 +1,6 @@
-## Main Design Components.
+# Main Design Components.
 
-#### App is a mess right now. Still looking at major components.
+## App is a mess right now. Still looking at major components.
 
 ### Minimal Colored Gallery
 

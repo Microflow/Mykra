@@ -14,7 +14,7 @@ Alt:
 
 https://codepen.io/Teeke/pen/pYYNbE
 
-### BASE? Minimal Colored Gallery. To introduce guides for investors. 
+### BASE? Minimal Colored Gallery. To introduce guides for builders and funders. 
 
 https://codepen.io/Teeke/pen/GLgwPx
 

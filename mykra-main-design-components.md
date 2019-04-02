@@ -21,6 +21,10 @@ https://codepen.io/Teeke/pen/GLgwPx
 
 
 
+#### Beautiful Codepens. List from Kinda etc
+
+https://github.com/Microflow/Mykra/issues/11
+
 
 
 
@@ -41,5 +45,21 @@ https://codepen.io/Teeke/pen/GLgwPx
 
 ### Feedback from Kinda etc
 
+
+
+
+
+
+
+
+  
+    
+      
+        
+          
+            
+              
+                
+                
 
 

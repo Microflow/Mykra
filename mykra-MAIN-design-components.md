@@ -1,6 +1,10 @@
 # Main Design Components.
 
-## App is a mess right now. Still looking at major components.
+## 
+
+### NEW TOP: 
+
+https://codepen.io/Teeke/pen/qwOgWV
 
 ### TOP? Material Design. Knockout Text. Videos animate.
 

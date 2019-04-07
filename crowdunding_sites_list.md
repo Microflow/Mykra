@@ -10,6 +10,8 @@ https://www.easyfundraising.org.uk/
 
 https://www.crowdfunder.co.uk Min?
 
+https://www.crowdcube.com/
+
 ## Taiwan
 
 FlyingV - Min 10,000

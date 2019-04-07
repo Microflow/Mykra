@@ -15,6 +15,10 @@ https://www.digitaldesignjournal.com/best-circular-progress-bar-html-css/
 
 http://jsfiddle.net/samkuniya04/ss1n5w0z/
 
+## Circular Progress Buttons. Could be good for game...
+
+https://tympanus.net/Tutorials/CircularProgressButton/
+
 
 
 

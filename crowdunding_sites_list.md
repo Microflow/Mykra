@@ -1,0 +1,15 @@
+## China
+
+http://www.demohour.com/ - Min?
+
+## UK and China
+
+https://www.easyfundraising.org.uk/
+
+https://www.crowdfunder.co.uk Min?
+
+## Taiwan
+
+FlyingV - Min 10,000
+Red Tortoise - Min 
+

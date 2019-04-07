@@ -1,3 +1,7 @@
+## Progress Bars with Swing
+
+https://jsfiddle.net/BrightPixels/xgcLzj2n/
+
 ## Chris Coyier Wins Again. Excellent HTML tutorial
 
 https://css-tricks.com/css3-progress-bars/

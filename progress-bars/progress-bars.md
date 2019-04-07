@@ -11,4 +11,10 @@ https://codepen.io/Stormix/pen/xWrMKQ/
 
 https://www.digitaldesignjournal.com/best-circular-progress-bar-html-css/
 
+## Circular Animated
+
+http://jsfiddle.net/samkuniya04/ss1n5w0z/
+
+
+
 

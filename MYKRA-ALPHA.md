@@ -11,7 +11,7 @@
 
 ## Slide Downs
 
-[]3x slidedown W3 schools](https://www.w3schools.com/code/tryit.asp?filename=G36K9HRRUIAW)
+[3x slidedown W3 schools](https://www.w3schools.com/code/tryit.asp?filename=G36K9HRRUIAW)
 
 ## B
 

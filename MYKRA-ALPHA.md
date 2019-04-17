@@ -7,6 +7,7 @@
 ## [Jquery Reveal](https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_slide_down)
 ## [Kickstarter Vid Widget](https://codepen.io/Teeke/pen/JVMEwa)
 ## [Beautiful Input Form](https://codepen.io/Teeke/pen/MxxMYr)
+## [Mykra Original Carousel and Cool Navbar ](https://codepen.io/Teeke/pen/pYYNbE)
 
 ## B
 

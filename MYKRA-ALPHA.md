@@ -10,3 +10,4 @@
 ## B
 
 [Progress Bar Circular](https://codepen.io/Teeke/pen/GLjoZp)
+[Mykra Ticker](https://codepen.io/Teeke/pen/pYBRvr)

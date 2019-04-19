@@ -1,3 +1,5 @@
+## https://twitter.com/Mykra007
+
 ## International
 
 ### [Self Taught Programmers](https://www.facebook.com/groups/selftaughtprogrammers/) 
@@ -21,6 +23,8 @@
 ## Taichung
 
 ### [Taichug Language Exchange](https://www.facebook.com/groups/421505311243734/)
+
+
 
 
 

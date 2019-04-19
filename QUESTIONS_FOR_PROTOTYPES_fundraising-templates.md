@@ -10,7 +10,7 @@ OR
 
 What. How. Why?
 
-### To Validate ideas.... /u/h0lborn
+### [To Validate ideas.... /u/h0lborn](https://www.reddit.com/r/startups/comments/beqw3h/is_there_anything_specific_to_be_aware_of_when/)
 
 #### Be sure to have answers for the following:
 

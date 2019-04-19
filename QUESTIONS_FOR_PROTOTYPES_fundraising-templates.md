@@ -1,0 +1,30 @@
+# Different Prototype Framework Templates
+
+### For "Coming Soon" Showcase on App.
+
+What do you want to do?
+What do you need?
+What will you give?
+
+OR
+
+What. How. Why?
+
+### To Validate ideas.... /u/h0lborn
+
+#### Be sure to have answers for the following:
+
+How did you validate your idea and what kind of traction are you expecting? (Any customers waiting for the MVP to be ready?)
+
+Why you? Why are you the right person for this
+
+Why now? Why is now a good time?
+
+How is your solution better or different than what’s already out? (Saying you have no competition may be seen as a red flag)
+
+Risks to your business.
+
+A demo even if it is fake goes a long way.
+
+
+

@@ -8,7 +8,13 @@ What will you give?
 
 OR
 
-What. How. Why?
+## Building
+
+What are you building? How will you build it? What do you need? Why?
+
+## Healing
+
+Who are you healing? How will you heal them? What do you need? Why?
 
 ### [To Validate ideas.... /u/h0lborn](https://www.reddit.com/r/startups/comments/beqw3h/is_there_anything_specific_to_be_aware_of_when/)
 

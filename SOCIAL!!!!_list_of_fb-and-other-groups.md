@@ -22,7 +22,16 @@
 
 ## Taichung
 
-### [Taichug Language Exchange](https://www.facebook.com/groups/421505311243734/)
+### [Taichung Language Exchange](https://www.facebook.com/groups/421505311243734/)
+
+## Other
+
+Avalon, NRG...
+
+# LIST OF TAIWANESE/CHINESE LANGUAGE FACEBOOK GROUPS
+
+
+# CHINA SOCIAL MEDIA
 
 
 

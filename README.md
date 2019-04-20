@@ -35,8 +35,8 @@ Very early drafts here. We're building components piece by piece. Later, we will
 
 https://codepen.io/Teeke/pen/vPQdJL
 
-
-#### Move Slowly and Fix Things
-
+<p align="center">
+Move Slowly and Fix Things
+</p>
 
 Written by Kinda and Jake

@@ -39,4 +39,8 @@ https://codepen.io/Teeke/pen/vPQdJL
 Move Slowly and Fix Things
 </p>
 
+<p align="center">
 Written by Kinda and Jake
+</p>
+
+

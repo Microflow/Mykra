@@ -11,7 +11,7 @@
 ## [Newspapers](https://codepen.io/search/pens?q=newspaper&page=1&order=popularity&depth=everything)
 ## [Mykra Mission](https://codepen.io/Teeke/pen/dLKYrR)
 
-## Slide Downs
+# Slide Downs
 
 [3x slidedown W3 schools](https://www.w3schools.com/code/tryit.asp?filename=G36K9HRRUIAW)
 

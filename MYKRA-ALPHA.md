@@ -9,6 +9,7 @@
 ## [Beautiful Input Form](https://codepen.io/Teeke/pen/MxxMYr)
 ## [Mykra Original Carousel and Cool Navbar ](https://codepen.io/Teeke/pen/pYYNbE)
 ## [Newspapers](https://codepen.io/search/pens?q=newspaper&page=1&order=popularity&depth=everything)
+## [Mykra Mission](https://codepen.io/Teeke/pen/dLKYrR)
 
 ## Slide Downs
 

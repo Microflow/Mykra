@@ -30,7 +30,10 @@ Avalon, NRG...
 
 # LIST OF TAIWANESE/CHINESE LANGUAGE FACEBOOK GROUPS
 
-### [Learn Chinese (China)](https://www.facebook.com/crilearnchinese/)
+China
+### [Learn Chinese](https://www.facebook.com/crilearnchinese/)
+
+### [ChineseClass101.com](https://www.facebook.com/crilearnchinese/)
 
 # CHINA SOCIAL MEDIA
 

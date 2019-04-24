@@ -1,3 +1,33 @@
+## Open Source Group
+GitHub unofficial Taipei User Group/GHTUG
+https://www.meetup.com/GitHub-Taipei-User-Group-GHTUG/
+
+## Taipei Open Source Software User Group 台北開放原始碼軟體使用者社群
+https://www.facebook.com/tossug
+
+## Hacking Thursday
+https://www.facebook.com/groups/hackingday
+
+## OpenHack Taipei
+http://openhack.github.io/taipei/
+
+## Javascript Group
+JavaScript.tw
+https://www.facebook.com/groups/javascript.tw/
+
+## Taipei Javascript Enthusiasts
+https://www.meetup.com/javascript-enthusiasts/
+
+## NodeJS Taiwan
+https://www.meetup.com/javascript-enthusiasts/
+
+## Front End Group
+Front-End Developers Taiwan
+https://www.facebook.com/groups/f2e.tw/
+
+## Front-end Development groups in Taipei
+https://www.meetup.com/topics/front-end-development/tw/taipei/
+
 ## https://twitter.com/Mykra007
 
 ## International

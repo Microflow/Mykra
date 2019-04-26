@@ -5,6 +5,10 @@ https://www.meetup.com/GitHub-Taipei-User-Group-GHTUG/
 ## Taipei Open Source Software User Group 台北開放原始碼軟體使用者社群
 https://www.facebook.com/tossug
 
+## Good, active FB group
+
+https://www.facebook.com/groups/partyintaiwan11/?multi_permalinks=277343643213318&notif_id=1556276692582391&notif_t=group_highlights
+
 ## Hacking Thursday
 https://www.facebook.com/groups/hackingday
 

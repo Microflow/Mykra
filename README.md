@@ -5,6 +5,12 @@
 
 [Main Articles. Check these out to see what we're doing.](https://medium.com/@shiningsea3000/5-articles-on-new-businesses-for-the-future-cdad8491a1ba)
 
+Right now Mykra is a single page web-app. In one file to make it easier for beginners. 
+
+# [index.html ](https://github.com/Microflow/Mykra/blob/master/index.html)
+
+
+
 [Our basic Rough Doc.](https://docs.google.com/document/d/11MGNHL9yPNA6Pr_UQjXdwozWxWboLVg4D5R-nQznQkU/edit)
 
 ## Mykra Responsive App
